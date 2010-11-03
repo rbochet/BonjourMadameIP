@@ -1,0 +1,2 @@
+WARNING (2): include(fonctionsphp) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /dns/com/olympe-network/bonjourmmeip/index.php on line 9
+WARNING (2): include() [<a href='function.include'>function.include</a>]: Failed opening 'fonctionsphp' for inclusion (include_path='.:/usr/share/php/ezc:/usr/share/php') in /dns/com/olympe-network/bonjourmmeip/index.php on line 9
